@@ -9,3 +9,13 @@ Perfomace Testing with Apache JMeter
 - Go to Folder Installer
 - Go to directory apace-jmeter-xxx/bin and open in intergrated terminal
 - Enter command "jmeter.bat"
+  
+<br>
+
+**=> JMeter Features**
+ - Test Plan
+ - Thread Group
+ - HTTP Request
+ - HTTP Header Manager
+ - Listener
+ - Assertion
